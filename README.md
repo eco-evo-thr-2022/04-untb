@@ -12,3 +12,20 @@ References from the video:
 - [Local Contexts Hub Notices and Labels](https://localcontexts.org/notices/aboutnotices/)
 - Original derivation of the logseries distribution from a birth-death-speciation process (i.e. the process that produced the metacommunity): [Kendall (1948)](https://github.com/eco-evo-thr-2022/resources/blob/main/kendall_1948.pdf)
 - Re-derivation of the logseries in the conext of UNTB: [Alonso and McKane (2004)](https://github.com/eco-evo-thr-2022/resources/blob/main/alonso_2004.pdf)
+
+# Discussion points from the issues
+
+- What if local community and metacommunity are different? e.g., local purturbation to local community
+- Points that refute with UNTB?
+    - r vs K selected species?
+    - clear differences in dispersal ability?
+    - climate change?
+- What about initial conditions?
+    - Is the mono-culture initial condition realistic?
+    - What about if the local community starts with higher diversity than would be supported by immigration/speciation?
+- What is the timescale/spatial scale of UNTB?  Does predictive power vary across scales?  Do predictions vary?
+- How do we extend this model past neutrality?
+- Could we use this approach for other observables? e.g.:
+    - phenotypes?
+    - single population dynamics?
+    - population genetics?
